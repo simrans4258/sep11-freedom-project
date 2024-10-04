@@ -1,13 +1,17 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: **Earsketch**
 
-## Project: **X**
+## Project: **Music Game with Javascript**
 
 ---
 
-### X/X/XX:
-* Text
+### 10/4/24:
+* Experimented with the website on [Earsketch](https://earsketch.gatech.edu/earsketch2/)
+  * found out it uses both python and javascript
+* found a beginner [tutorial](https://www.youtube.com/watch?v=NtaGTRA48ms)
+  * this uses python but it is really similar
+* need to know how to connect it with other things like jsbin and not just on the website
 
 ### X/X/XX:
 * Text
