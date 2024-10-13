@@ -13,9 +13,11 @@
   * this uses python but it is really similar
 * need to know how to connect it with other things like jsbin and not just on the website
 
-### X/X/XX:
-* Text
-
+### 10/13/24:
+* tested on [Earsketch](https://earsketch.gatech.edu/earsketch2/) more
+  * experimented with effects more
+* watched this video (https://www.youtube.com/watch?v=-pkS95U8zRg)
+* found out there is a block mode for earsketch, can make things easier
 
 <!-- 
 * Links you used today (websites, videos, etc)
