@@ -27,8 +27,12 @@
   * need to learn more about effects and other types of things on Earsketch, not just adding sounds
 * How can I be able to use EarSketch outside of it's website?
 
-### 10/21/2024:
+### 10/26/2024:
 * learned how to share code with [Earsketch](https://earsketch.gatech.edu/earsketch2/?sharing=MiQYCfFVzS1eXFgGYppkFg)
+  * I learned how to input sounds into the music editor and what a tempo is
+  * Also learned how to do effects, such as gaining audio for example
+  * learned to input `var` and making beats
+  * Am I able to use functions and even more javascript elements in Earsketch, or only a few are applicable here?
 
 <!-- 
 * Links you used today (websites, videos, etc)
