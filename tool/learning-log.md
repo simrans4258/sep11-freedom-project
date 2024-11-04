@@ -33,6 +33,14 @@
   * Also learned how to do effects, such as gaining audio for example
   * learned to input `var` and making beats
   * Am I able to use functions and even more javascript elements in Earsketch, or only a few are applicable here?
+ 
+### 11/4/2024:
+* ended up connecting my current Earsketch code to [jsbin](https://jsbin.com/woxajunela/1/edit?html,output)
+  * the code shows up on the output of jsbin, which is interesting
+  * can't edit the code on jsbin, but it's connected to Earsketch
+  * if you edit on Earsketch then reload the jsbin page, then it shows up
+* if you hide both the DAW (digital audio workstation) and the code, then it only shows the play button, but it still works
+* I want to see if I am able to hide the whole code, but it is still able to produce sounds
 
 <!-- 
 * Links you used today (websites, videos, etc)
