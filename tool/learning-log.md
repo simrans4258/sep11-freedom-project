@@ -42,6 +42,16 @@
 * if you hide both the DAW (digital audio workstation) and the code, then it only shows the play button, but it still works
 * I want to see if I am able to hide the whole code, but it is still able to produce sounds
 
+### 11/9/24:
+* started a new [Earsketch](https://earsketch.gatech.edu/earsketch2/?sharing=mMnc0kl_hpBlouIoSmUzQA) code to match with what the cirriculum says, plus to test out new sounds available in the program
+  * learned that conditionals can work well with Earsketch as you can manipulate which tracks you want to be louder or less louder than others easier than manually do it
+  * also used variables a lot, which makes writing names for sounds more easy, especially if you have to use them constantly and/or if those names are quite long, which are a lot
+    * though the names automatically fill for you in Earsketch, it is convenient to use variable names to make things easier for you, which is how javascript works
+* added new code in [jsbin](https://jsbin.com/yayubolaze/edit?html,css,output)
+  * added css and divs to make it look more pretty, but can't change the code itself, only what's around it
+  * both of them can be played at the same time and the sounds overlap with each other
+  * How can I make it not show while still playing the sound? Can it connect to other regular javascript code too?
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
