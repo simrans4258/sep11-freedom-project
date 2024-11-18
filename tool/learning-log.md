@@ -51,6 +51,16 @@
   * added css and divs to make it look more pretty, but can't change the code itself, only what's around it
   * both of them can be played at the same time and the sounds overlap with each other
   * How can I make it not show while still playing the sound? Can it connect to other regular javascript code too?
+ 
+### 11/18/24:
+* experimented with new code on [Earsketch](https://earsketch.gatech.edu/earsketch2/?sharing=6RUq-vYFHsDSki1kbHMugw)
+  * inplemented functions and for loops in order to make repeated music/code more easy to manage, and it was, as it heavily shortened the code I needed to do, I just needed to call parameters and such
+  * also used the `makeBeat` element to make nice beats to a track in the loop
+* used conditionals for this [code on Earsketch](https://earsketch.gatech.edu/earsketch2/?sharing=mMnc0kl_hpBlouIoSmUzQA)
+  * used `analyzeTrack` as it works best with conditionals on Earsketch
+  * works pretty well and sounds nice, but it doesn't work sometimes on other code when I try it, I should try to see the problem later
+* updated some code on Earsketch and it shows up on [jsbin](https://jsbin.com/kopusibawu/edit?html,css,output)
+* How much can I alter sounds using things such as `makeBeat`, `analyzeTrack`, `setEffect`, and more?
 
 <!-- 
 * Links you used today (websites, videos, etc)
