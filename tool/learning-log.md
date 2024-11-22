@@ -62,6 +62,14 @@
 * updated some code on Earsketch and it shows up on [jsbin](https://jsbin.com/kopusibawu/edit?html,css,output)
 * How much can I alter sounds using things such as `makeBeat`, `analyzeTrack`, `setEffect`, and more?
 
+### 11/22/24:
+* altered the first [Earsketch project](https://earsketch.gatech.edu/earsketch2/?sharing=MiQYCfFVzS1eXFgGYppkFg) I did
+  * just put `fitMedia`, as it works just fine on that, but I feel like other elements of javascript can be implemented, it just takes a lot of editing to do
+* also did new code surrounding [world music](https://earsketch.gatech.edu/earsketch2/?sharing=WlIuL5eON1uG6ilE5frDVg)
+  * Used a lot of functions for that one, as it made it sound nicer than before
+* the code updated on [jsbin](https://jsbin.com/yayubolaze/edit?html,output)
+* I wonder how can I implement more javascript elements without making it too complicated, since Earsketch can hold up on its own
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
