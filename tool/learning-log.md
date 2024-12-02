@@ -63,12 +63,20 @@
 * How much can I alter sounds using things such as `makeBeat`, `analyzeTrack`, `setEffect`, and more?
 
 ### 11/22/24:
-* altered the first [Earsketch project](https://earsketch.gatech.edu/earsketch2/?sharing=MiQYCfFVzS1eXFgGYppkFg) I did
+* altered the first [Earsketch project](https://earsketch.gatech.edu/earsketch2/?sharing=MiQYCfFVzS1eXFgGYppkFg)
   * just put `fitMedia`, as it works just fine on that, but I feel like other elements of javascript can be implemented, it just takes a lot of editing to do
 * also did new code surrounding [world music](https://earsketch.gatech.edu/earsketch2/?sharing=WlIuL5eON1uG6ilE5frDVg)
   * Used a lot of functions for that one, as it made it sound nicer than before
 * the code updated on [jsbin](https://jsbin.com/yayubolaze/edit?html,output)
 * I wonder how can I implement more javascript elements without making it too complicated, since Earsketch can hold up on its own
+
+### 12/2/24:
+* edited some code for [random Earsketch project](https://earsketch.gatech.edu/earsketch2/?sharing=mMnc0kl_hpBlouIoSmUzQA)
+  * added a `for` loop in order to repeat specific tracks/beats, and it works pretty well
+  * the repetition works on the track itself, so it repeats a track a certain amount of times on the music editor if it's less than or equal to the track end, since you always have to declare the `var` to 1, since it's equal to the track number
+* i also come to understand beats more now, since I listened to them, and you basically put numbers and dashes in a string which all represent steps, the numbers are the sounds, the dashes are the breaks
+* it shows up on [jsbin](https://jsbin.com/yayubolaze/edit?html,css,output), as I made sure the jsbin code saves future changes as well
+* I plan to use the `for` loops more often now, as it makes code more easy and pretty to look at, especially repetitions, plus I'll use more beats to add flare to the music
 
 <!-- 
 * Links you used today (websites, videos, etc)
