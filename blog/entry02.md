@@ -10,7 +10,7 @@ One of the main things I did while learning about my tool is just learning new t
 Anyways, one of the most important things I learned while using Earsketch is that the `fitMedia()` element is the **most** important thing to use if you want to input any sound into the music editor in the first place. I've been using it constantly to input many different sounds into Earsketch, and honestly, it works like a charm. You just have to assign them into different places so that the different tracks don't overtake one another, and it looks like this when you run the code for the music editor to show up. 
 ![image](https://github.com/user-attachments/assets/1ae608e7-5c6f-426a-a114-0213e27009cc)
 
-I also learned how to use other javascript stuff. This is my code for one of my *many* editors:
+I also learned how to use other javascript elements into Earsketch, such as variables and conditionals. I used variables as alternatives for the sound names, as they are quite long, and I have to use them a couple of times sometimes. I used conditionals for sounds and certain beats to play. This is one example of this out of my *many* editors:
 ```js
 // description: 
 setTempo(120);
@@ -42,7 +42,7 @@ if (loud1 > loud2) {
 ```
 
 ### Plan for the Winter Break
-So, what do I have to do during winter break, since we don't have school that time? Well, I plan to continue working on my tool, even if I'm not assigned it, and overall reviewing skills I learned, so that I won't forget during the break.
+So, what do I have to do during winter break, since we don't have school that time? Well, I plan to continue working on my tool, even if I'm not assigned it, and overall reviewing skills I learned, so that I won't forget during the break. I also plan to learn more javascript skills outside of Earsketch, more notably functions, conditionals, and loops, so I can input those skills onto Earsketch itself. Overall, I just have to learn more, take notes, and review my tool for the winter break. Not too much of course, because I want a break during the break.
 
 ## EDP
 Currently I'm in steps 3 and 4 of the Engineering Design Process, brainstorming possible solutions and plan the most promising solution. Basically, I have solve my problem, which is making a music game, by learning more about my tool, which helps with music, and that leads me to learn the more complicated things about Earsketch since that seems like the most promising solution.
