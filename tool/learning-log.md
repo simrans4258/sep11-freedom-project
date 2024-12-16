@@ -78,6 +78,9 @@
 * it shows up on [jsbin](https://jsbin.com/yayubolaze/edit?html,css,output), as I made sure the jsbin code saves future changes as well
 * I plan to use the `for` loops more often now, as it makes code more easy and pretty to look at, especially repetitions, plus I'll use more beats to add flare to the music
 
+### 12/16/24: 
+* 
+* 
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
