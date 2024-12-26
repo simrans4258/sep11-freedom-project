@@ -78,9 +78,16 @@
 * it shows up on [jsbin](https://jsbin.com/yayubolaze/edit?html,css,output), as I made sure the jsbin code saves future changes as well
 * I plan to use the `for` loops more often now, as it makes code more easy and pretty to look at, especially repetitions, plus I'll use more beats to add flare to the music
 
-### 12/16/24: 
-* 
-* 
+### 12/26/24: 
+* used more `setEffect()` for my code editors, to make the tracks sound more unique and nice
+  * for [the house](https://earsketch.gatech.edu/earsketch2/?sharing=6RUq-vYFHsDSki1kbHMugw) one, I used EQ3BAND, which basically helps adjust the volume for the tracks and amplifies it more
+  * for [the world](https://earsketch.gatech.edu/earsketch2/?sharing=WlIuL5eON1uG6ilE5frDVg) one, I used TREMOLO, which makes a wobbly sound effect for the tracks
+  * for [the Underdog](https://earsketch.gatech.edu/earsketch2/?sharing=MiQYCfFVzS1eXFgGYppkFg) one, I used CHORUS, which makes vocals and other sounds have some sort of ensemble to it, by repeating and amplifying vocals
+  * used DISTORTION for [this one](https://earsketch.gatech.edu/earsketch2/?sharing=mMnc0kl_hpBlouIoSmUzQA)
+* added and adjusted the for loop for the world.js one so that it could fit the music better
+* will work on how to make the functions and loops more connected with each other, just like we did in regular javascript lessons
+
+### 12/:
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
