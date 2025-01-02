@@ -87,7 +87,8 @@
 * added and adjusted the for loop for the world.js one so that it could fit the music better
 * will work on how to make the functions and loops more connected with each other, just like we did in regular javascript lessons
 
-### 12/:
+### 1//25:
+* 
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
