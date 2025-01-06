@@ -88,7 +88,7 @@
 * will work on how to make the functions and loops more connected with each other, just like we did in regular javascript lessons
 
 ### 1//25:
-* 
+* worked on [the world](https://earsketch.gatech.edu/earsketch2/?sharing=WlIuL5eON1uG6ilE5frDVg) one
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
