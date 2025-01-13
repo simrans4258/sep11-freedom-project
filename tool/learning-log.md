@@ -87,8 +87,14 @@
 * added and adjusted the for loop for the world.js one so that it could fit the music better
 * will work on how to make the functions and loops more connected with each other, just like we did in regular javascript lessons
 
-### 1//25:
+### 1/12/25:
 * worked on [the world](https://earsketch.gatech.edu/earsketch2/?sharing=WlIuL5eON1uG6ilE5frDVg) one
+  * added some more tracks that fit the theme of the song
+  * added some more effects (used the TREMOLO and DELAY effects)
+* also worked on [the house](https://earsketch.gatech.edu/earsketch2/?sharing=6RUq-vYFHsDSki1kbHMugw) one
+  * added one more track
+  * adjusted all the effects so it could all be different (used FILTER, DISTORTION, BANDPASS, and more)
+* will probably use effects more often, and maybe more variables
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
