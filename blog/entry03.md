@@ -1,10 +1,11 @@
 # Entry 3
 ##### 2/3/25
 
-## What I learned over the Break
+## What I learned over the Winter Break
+Ever since the few weeks that winter break was over, I've learned a lot about my tool during that time, and while it's been some time, here are some of things I learned about Earsketch during Winter Break, and even more.
 
 ### More elements
-Text
+First, I ended up learning **a lot** about what Earsketch has to offer and other things I haven't learned before while trying to figure out my tool. 
 
 I did all of this for the `house.js` code:
 ```js
@@ -107,10 +108,10 @@ So, after reviewing the editing I did in Earsketch and what I actually inputed i
 Of course, I ended up learning a lot of skills along the way of learning about my tool. Here are two skills I learned while learning my tool over the break. 
 
 ### Keeping track of what I learned
-
+One skill I learned was to keep track of what I had learned throughout the course of figuring out Earsketch.
 
 ### Trying out new things
-
+Another skill I learned while learning about Earsketch is to try out new things, even if they seem scary to you.
 
 [Previous](entry02.md) | [Next](entry04.md)
 
