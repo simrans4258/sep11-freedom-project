@@ -95,6 +95,12 @@
   * added one more track
   * adjusted all the effects so it could all be different (used FILTER, DISTORTION, BANDPASS, and more)
 * will probably use effects more often, and maybe more variables
+
+### 2/24/25:
+* I learned more about beats, and how to use for loops more efficiently
+  * learned how beats are made, as you have to put a sequence of numbers/signs, such as `00--000` or `---1----` for example
+  * also learned more about for loops and its use for repitition
+* will keep these two skills in mind, and will use them more for more songs to make
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
