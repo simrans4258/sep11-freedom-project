@@ -101,6 +101,20 @@
   * learned how beats are made, as you have to put a sequence of numbers/signs, such as `00--000` or `---1----` for example
   * also learned more about for loops and its use for repitition
 * will keep these two skills in mind, and will use them more for more songs to make
+
+### 3/2/25:
+* changed some things about [`world.js`](https://earsketch.gatech.edu/earsketch2/?sharing=WlIuL5eON1uG6ilE5frDVg)
+  * removed some tracks from the song to make it sound better
+  * did the same for [`random.js`](https://earsketch.gatech.edu/earsketch2/?sharing=mMnc0kl_hpBlouIoSmUzQA)
+* earsketch has now color coded arrows on tracks so you can track down which ones are playing, which is very convienient
+* made a new code, [`pop.js`](https://earsketch.gatech.edu/earsketch2/?sharing=sJofaPkVAFacF9qah6U0sw), to experiment with new sounds and genres
+  * used `setEffect()` and `fitMedia()`, which are the basics, in order to make it
+  * decided to do different type of format to see how it sounds, plus to add more tracks
+  * will experiment with this more
+* will make the music for the Freedom Project, and will figure out how to input audio only
+  * found out that I can download the music I made as not just code script, but as mp3 and wav files
+  * will use this to input the audio for the game
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
