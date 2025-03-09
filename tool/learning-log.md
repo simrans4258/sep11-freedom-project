@@ -115,6 +115,15 @@
   * found out that I can download the music I made as not just code script, but as mp3 and wav files
   * will use this to input the audio for the game
 
+### 3/7/25:
+* changed many things about [`pop.js`](https://earsketch.gatech.edu/earsketch2/?sharing=sJofaPkVAFacF9qah6U0sw) script
+  * removed a lot of unnecessary tracks and replaced them with new ones to free up some space in the song/not overwhelm it
+  * used different effects to check different sounds the tracks make with them (not too much though)
+  * tried out user input, where theres an alert for the user to change the tempo between a certain range (inspired by the cirriculum)
+* edited a bit more for [`random.js`](https://earsketch.gatech.edu/earsketch2/?sharing=mMnc0kl_hpBlouIoSmUzQA)
+* made a new song, [`rnb.js`](https://earsketch.gatech.edu/earsketch2/?sharing=_gGHsvc6BDkde-hPHHbgDw)
+* will continue to make and experiment with new songs for freedom project
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
