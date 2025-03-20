@@ -103,7 +103,7 @@ So far, me and Nancy had begun making our freedom project, with me providing the
 Considering during the time of writing this blog, we are learning p5js, we are going to continue making our freedom project according to our plan as well as implementing things we learned in our course to our game. It'll definetly benefit us in the long run. For me, I'm planning to make the songs I already have to be longer, the plan is about 3 minutes or a bit less. Once I finish with that, then I could possibly make more songs for the game, which would be pretty cool, if we have enough time. Overall, it'll be fun to work on this project, especially when we will be done.
 
 ## EDP
-Currently, I'd say that we are on step 5 of the Engineering Design Process, which is creating a prototype. Since me and Nancy are literally working on the game right now, I'd say that we are on the beginning of step 5. It may be little, but at least we are getting somewhere with this project, especially with the year passing by so fast.
+Currently, I'd say that we are on step 5 of the Engineering Design Process, which is creating a prototype, which is basically making the game itself. Since me and Nancy are literally working on the game right now, I'd say that we are on the beginning of step 5. It may be little, but at least we are getting somewhere with this project, especially with the year passing by so fast. I feel like step 5 will take a while to complete, but it'll be worth it at the end of the day.
 
 ## Skills
 Of course, while learning a lot about my tool and working on the freedom project, I learned a lot of things along the way. Here are some skills I learned.
