@@ -124,6 +124,15 @@
 * made a new song, [`rnb.js`](https://earsketch.gatech.edu/earsketch2/?sharing=_gGHsvc6BDkde-hPHHbgDw)
 * will continue to make and experiment with new songs for freedom project
 
+### 3/23/25:
+* changed a couple of tracks to [`house.js`](https://earsketch.gatech.edu/earsketch2/?sharing=6RUq-vYFHsDSki1kbHMugw)
+  * made it so it sounds more nice and a bit longer
+* also changed [`rnb.js`](https://earsketch.gatech.edu/earsketch2/?sharing=_gGHsvc6BDkde-hPHHbgDw) to make it longer and sound more unique and nice
+* made [`pop.js`](https://earsketch.gatech.edu/earsketch2/?sharing=sJofaPkVAFacF9qah6U0sw) longer as well
+* main goal to make many songs at least a minute long, so far two
+* used different type of formatting to make songs sound better, but is hard to keep track of
+* will continue to keep doing this for the freedom project
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
