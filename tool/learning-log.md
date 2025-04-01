@@ -133,6 +133,14 @@
 * used different type of formatting to make songs sound better, but is hard to keep track of
 * will continue to keep doing this for the freedom project
 
+### 3/31/25:
+* ended up making [`pop.js`](https://earsketch.gatech.edu/earsketch2/?sharing=sJofaPkVAFacF9qah6U0sw) longer, up to a minute
+  * ended up finishing it faster than I thought I would be, probably due to the practice I got from editing and listening
+* also made [`random.js`](https://earsketch.gatech.edu/earsketch2/?sharing=mMnc0kl_hpBlouIoSmUzQA) longer
+  * took a while for the changes to happen beause I wanted it to sound nice
+* ended up adding math equations for the freedom project as well in the plan
+* will stick to the songs I have for now, I'll just make them longer
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
