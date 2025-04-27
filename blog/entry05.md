@@ -7,7 +7,7 @@ Durnig the time of this blog, all of us are basically done with our Freedom Proj
 ### Making Songs Longer
 One of the first, and honestly only things I did was to make the songs I made *longer*, as they needed to be at least 30 seconds to a minute long for the game to be finished. The plan was to make the music some sort of reward for the player after completing a level, since the game was kind of a platformer game combined with music happening. **So,** I decided to use the five songs I currenly had and make them longer, at least 30 seconds each, and a minute or more as the "Beyond MVP" for those songs. Due to all the skills I learned from working with Earsketch, making them longer was no problem, I just extended the lengths of the songs with repetition and longer time frames, plus I added some other effects to them as well.
 
-*However*, making the songs longer **and** making it all sound well put together and nice was the hardest part of finishing the songs. It took a *long* time in order to make all the songs sound nice. I had to try out so many different sounds, combinations, effects, and even more additions to the songs in order 
+*However*, making the songs longer **and** making it all sound well put together and nice was the hardest part of finishing the songs. It took a *long* time in order to make all the songs sound nice. I had to try out so many different sounds, combinations, effects, and even more additions to the songs in order for them to be coherently listenable. It took a rather *long* time to actually complete it for all of the songs, and at the end of the day, I managed to complete it all in time, which was great progress for the project. As a result, the codes for the songs turned out to be extremely long, but they were doable at the end of the day. Here is the code for [`random.js`](https://earsketch.gatech.edu/earsketch2/?sharing=6RUq-vYFHsDSki1kbHMugw) and [`house.js`](https://earsketch.gatech.edu/earsketch2/?sharing=6RUq-vYFHsDSki1kbHMugw):
 
 ```js
 // random.js
@@ -102,27 +102,25 @@ setEffect(4, COMPRESSOR, COMPRESSOR_THRESHOLD, -10);
 setEffect(5, CHORUS, MIX, 0.5);
 setEffect(6, BANDPASS, BANDPASS_RESONANCE, 0.9)
 ```
+While it was a lot, at the end of the day I'm glad that I got to make these songs longer. 
 
 ## Finishing Up MVP
-After that was done, me and Nancy spent time working together on what to do for the Freedom Project, especially over the break.
+After that was done, me and Nancy spent time working together on what to do for the Freedom Project, especially over the break. 
 
-### Downloading songs for project
-So, after I was done, 
-
-### Add some finishing touches
-
+### Adding some finishing touches
+We were working on the game throughout the course of the year, so all we needed to do is add the finishing touches to the game, and the main finishing touch was the music. The problem was, Earsketch was more of a music creating/editing platform that uses code, so implementing the actual code from Earsketch is just going to make the game look weird, since it shows the actual editing platform when I tested it out earlier. So, we came up with the solution that the songs needed to be downloaded in order for the game to be completed. So, I ended up downloading the songs and sending them to Nancy, who helped implement the songs into the game, and we were good. I tested out the game, and I'd say it turned out to be pretty nice. The link to the game is [here](https://simrans4258.github.io/music-game), and overall, I'm so happy that I got to work together with Nancy to contribute to this very nice project.
 
 ## EDP
-Currently we are on steps 5 and 6 of the Engineering Design Process, which is creating the prototype and testing and evaluating it. Since me and Nancy are done with the project, we just need to test out some things and see if we can improve it more, and then thats it really, as we are getting so close to the 
+Currently we are on steps 5 and 6 of the Engineering Design Process, which is creating the prototype and testing and evaluating it. Since me and Nancy are done with the project, we just need to test out some things and see if we can improve it more, and then thats it really, as we are getting so close to making it Beyond MVP, and we are basically done with the MVP, which is great.
 
 ## Skills
 Of course, when we were finishing up the freedom project, I learned a couple of skills along the way. Here are some skills I learned.
 
 ### Communication
-The first skill I learned was that communication was key in order to create the best project you can make. Nearing the end of the date the MVP of our project was due, me and Nancy decided that the time was now to finally finish the project. We ended up communicating during the break as we had the most time
+The first skill I learned was that communication was key in order to create the best project you can make. Nearing the end of the date the MVP of our project was due, me and Nancy decided that the time was now to finally finish the project. We ended up communicating during the break as we had the most time available, and so we made sure that everything was on track according to our plan, made a few adjustments so the MVP could be met in time, and overall we worked together to finally finish up the project. Communication was key in finishing this project, and so I'm glad that me and Nancy were able to do it all in time.
 
-### Working Fast and Efficiently
-The second skill I learned was 
+### Balancing my work schedule
+The second skill I learned was being able to balance my work schedule efficiently so I was able to contribute to the project enough while also being able to complete all my other assignments in time. While for good reason, most of my teachers decided to give me huge amounts of break work to do in order to prepare for things such as the AP Exams, and so it was **very tough** to go through. However, with timing all my tasks carefully, plus making sure to take breaks in the meantime, I was able to finish the project on time, so I was greatful for myself for being able to track all my assignments down rather nicely. At the end of the day, I'm proud of how the project turned out, and I'm looking forward of what's next for us.
 
 [Previous](entry04.md) | [Next](entry06.md)
 
