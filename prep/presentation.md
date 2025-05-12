@@ -10,7 +10,7 @@
 * making the music
   * how long it took to make it sound good
   * how to apply things we learned in class to earsketch
-  * making 5 songs in totat and how to make it all 30 seconds - 1 minute
+  * making 5 songs in total and how to make it all 30 seconds - 1 minute
 * putting the project together
   * playtesting the game
   * helping with making the game look good with css
