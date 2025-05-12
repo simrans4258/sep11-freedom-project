@@ -1,16 +1,29 @@
 # Presentation Plan
 
 ## Hook
-* 
+* ask the audience a question if they ever thought of music, math, and games together
 
 ## Product
-* 
+* platformer game with math equations that you have to solve to get past obstacles, then it plays music once completed
 
 ## Process
-* 
+* making the music
+  * how long it took to make it sound good
+  * how to apply things we learned in class to earsketch
+  * making 5 songs in totat and how to make it all 30 seconds - 1 minute
+* putting the project together
+  * playtesting the game
+  * helping with making the game look good with css
+  * remembering how html and css works
+  * downloading the songs into the html and making suggestions for the game
 
 ## Conclusion
-* 
+* website for game: [https://simrans4258.github.io/music-game]
+* code for game: [https://github.com/simrans4258/music-game]
+* Takeaways:
+  * Communication is key as communicating and working together with my partner made things a lot more easier for the project, even if we ended up with no periods together throughout the year
+  * Patience is a virtue: having enough patience can help you go through the year while making the project, and it especially helped me focus on what I needed to do for the project
+  * Review Constantly: always make sure to make some adjustments and fixes to your projects and code in case something changes or comes up, and it can be worth it at the end for a better product
 
 <!-- EXAMPLE
 
