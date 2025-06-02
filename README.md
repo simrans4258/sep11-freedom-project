@@ -14,9 +14,13 @@ For my project, I chose to independently study **Earsketch** in order to help me
 
 ## Implications
 ##### PROS
-* 
+* The game kind of teaches you math
+* There's music in the game
+* There's many characters and levels to choose from
 ##### CONS
-* 
+* The songs only last a minute long
+* The math problems can take a bit to solve
+* There's only one obstacle each level
 
 ## Blog
 Below you will find my blog about how I made my project.
